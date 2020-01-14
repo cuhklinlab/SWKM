@@ -2,7 +2,7 @@
 SWKM
 ====
 
-The goal of SWKM is to perform (sparse) weighted K-Means algorithm on observations with weights. If some observations are known to be noisier than the others, the method in this package can be applied to adaptively tune weights and cluster the data.
+The goal of SWKM is to perform (Sparse) Weighted K-Means algorithm on observations with weights. If some observations are known to be noisier than the others, the method in this package can be applied to adaptively tune weights and cluster the data.
 
 Installation
 ------------
@@ -11,7 +11,7 @@ You can install the released version of SWKM from Github:
 
 ``` r
 library(devtools)
-devtools::install_github("Van1yu3/SWKM")
+devtools::install_github("cuhklinlab/SWKM")
 ```
 
 As this package depends on the RcppArmadillo package, Windows users should install [Rtools](https://cran.r-project.org/bin/windows/Rtools/) in advance to compile the package.
