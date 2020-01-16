@@ -10,7 +10,6 @@ Installation
 You can install the released version of SWKM from Github:
 
 ``` r
-library(devtools)
 devtools::install_github("cuhklinlab/SWKM")
 ```
 
@@ -32,4 +31,4 @@ Main Functions
 Examples
 --------
 
-Please refer to the [vigenette](https://github.com/Van1yu3/SWKM/tree/master/doc) with two examples for a quick guide to SWKM package.
+Please refer to the [vigenette](https://github.com/cuhklinlab/SWKM/tree/master/doc) with two examples for a quick guide to SWKM package.
