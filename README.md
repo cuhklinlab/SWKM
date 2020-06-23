@@ -31,4 +31,4 @@ Main Functions
 Examples
 --------
 
-Please refer to the [vigenette](https://github.com/cuhklinlab/SWKM/tree/master/doc) with two examples for a quick guide to SWKM package.
+Please refer to the [vigenette](https://htmlpreview.github.io/?https://github.com/cuhklinlab/SWKM/blob/master/doc/SWKM-vignette.html) with two examples for a quick guide to SWKM package.
