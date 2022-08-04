@@ -32,3 +32,7 @@ Examples
 --------
 
 Please refer to the [vigenette](https://htmlpreview.github.io/?https://github.com/cuhklinlab/SWKM/blob/master/doc/SWKM-vignette.html) with two examples for a quick guide to SWKM package.
+
+## Reference
+
+Zhang, W., Wangwu, J., Lin, Z. (2020). Weighted K-Means Clustering with Observation Weight for Single-Cell Epigenomic Data. In: Zhao, Y., Chen, DG. (eds) Statistical Modeling in Biomedical Research. Emerging Topics in Statistics and Biostatistics . Springer, Cham. https://doi.org/10.1007/978-3-030-33416-1_3
